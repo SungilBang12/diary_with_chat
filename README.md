@@ -34,4 +34,5 @@ This project aims to solve these problems through a **RAG (Retrieval-Augmented G
 * Support for sustainable self-development habit formation
 
 project 진행 상황
+
 https://evergreen-bellflower-9df.notion.site/246baa4128b780439aa8d4b136b9064e?source=copy_link
