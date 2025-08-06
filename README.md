@@ -32,3 +32,6 @@ This project aims to solve these problems through a **RAG (Retrieval-Augmented G
 * Enhanced self-reflection through effective utilization of personal data
 * Provision of systematic and structured emotional management and personal growth tools
 * Support for sustainable self-development habit formation
+
+project 진행 상황
+https://evergreen-bellflower-9df.notion.site/246baa4128b780439aa8d4b136b9064e?source=copy_link
